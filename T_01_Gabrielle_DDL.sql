@@ -35,3 +35,7 @@ IdLancamento   int primary key identity
 ,IdCategoria   int foreign key references Categorias (IdCategoria)
 );
 
+------------------
+---ex. extra
+
+

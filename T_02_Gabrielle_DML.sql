@@ -38,3 +38,11 @@ insert into Lancamentos (Nome,Sinopse,Tipo,Duracao,Datal,Plataforma,IdCategoria)
 insert into Lancamentos (Nome,Sinopse,Tipo,Duracao,Datal,Plataforma,IdCategoria) values ('Um porto seguro', 'Uma mulher misteriosa se muda para e recomeça sua vida.E acaba levantando questionamentos sobre seu passado, que esconde um terrível segredo que continua assombrando a sua vida.','Filme', '1 hora','19/04/2013','Cinema','5');
 
 select * from Lancamentos;
+
+---------------------
+---ex.extras
+
+----inserir mias 3 filmes que estão no cinema
+
+insert into Lancamentos (Nome,Sinopse,Tipo,Duracao,Datal,Plataforma,IdCategoria) values ('O rei leão', 'Traído e exilado de seu reino, o leãozinho Simba precisa descobrir como crescer e retomar seu destino como herdeiro real nas planícies da savana africana.','Filme', '2 horas' ,'18/06/2019', 'Cinema', '2');
+
